@@ -1,0 +1,17 @@
+{
+  "name": "contactform",
+  "version": "1.0.0",
+  "description": "using nodemailer module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.4.0"
+  }
+}
